@@ -34,6 +34,11 @@ A minimalist digital clock for M5Stack Core2 featuring NTP synchronization and a
 - **Time zone:** Currently set to GMT+7 (Bangkok)
   - To change: Modify `gmtOffset_sec` in `main.cpp`
 
+## Fonts Used
+
+- [**BlackHanSans-Regular**](https://fonts.google.com/specimen/Black+Han+Sans)
+
+
 ## Tech Stack
 
 Built with M5Core2 library, LVGL 8.3.6, and ESP32 Arduino framework.
